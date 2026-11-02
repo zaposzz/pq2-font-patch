@@ -2,6 +2,8 @@
 
 #### A mod that allows for a 2x upscaled font to work in Persona Q2 (USA)
 
+<img src="https://github.com/zaposzz/pq2-font-patch/blob/main/Font%20Upscale/Preview.png" alt="Thumbnail">
+
 This mod works by replacing the game's BCFNT font with one of a higher resolution and scaling it down to original size through a code patch.
 * Only the USA version of PQ2 is supported `TitleID: 00040000001D7100`
 
