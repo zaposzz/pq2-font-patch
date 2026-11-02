@@ -35,4 +35,8 @@ In case you prefer patching code.bin yourself, you can use the font_patch.py scr
     python3 font_patch.py code.bin
     ```
   * Place the new code_patched.bin in the exefs folder and rename it to replace the previous one
+
+## Notes
+* This mod and the patch have only been tested on emulators (Citra & Azahar), NOT on real hardware.
+* I did attempt to work with a 4x and 3x upscale font for higher quality but increasing the font cell cache beyond 32x32px caused softlocks in dungeons. At the moment, the upscale is limited to this current 2x scale font.
     
